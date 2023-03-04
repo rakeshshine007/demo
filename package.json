@@ -6,7 +6,7 @@
     "license": "MIT",
     "author": "Microsoft",
     "scripts": {
-        "start": "node index.js",
+        "start": "rakesh is don node index.js",
         "dev": "nodemon"
     },
     "dependencies": {
